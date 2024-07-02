@@ -1,0 +1,126 @@
+{
+  "keyPhrases": [
+    {
+      "phrase": "social media content creation",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "content creation", "score": 10 },
+        { "word": "social media", "score": 9 },
+        { "word": "videos", "score": 8 },
+        { "word": "short form", "score": 7 },
+        { "word": "educational content", "score": 6 },
+        { "word": "multiple platforms", "score": 5 }
+      ]
+    },
+    {
+      "phrase": "monitor and respond to comments",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "monitor", "score": 10 },
+        { "word": "respond", "score": 9 },
+        { "word": "comments", "score": 8 },
+        { "word": "messages", "score": 7 },
+        { "word": "mentions", "score": 6 },
+        { "word": "engagement", "score": 5 }
+      ]
+    },
+    {
+      "phrase": "social media trends, tools, and best practices",
+      "priority": "MEDIUM",
+      "keywords": [
+        { "word": "trends", "score": 10 },
+        { "word": "tools", "score": 9 },
+        { "word": "best practices", "score": 8 }
+      ]
+    },
+    {
+      "phrase": "strategies to grow and retain followers",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "strategies", "score": 10 },
+        { "word": "grow", "score": 9 },
+        { "word": "retain", "score": 8 },
+        { "word": "followers", "score": 7 },
+        { "word": "social media calendar", "score": 6 },
+        { "word": "monthly reports", "score": 5 }
+      ]
+    },
+    {
+      "phrase": "managing brand social media accounts",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "managing", "score": 10 },
+        { "word": "brand", "score": 9 },
+        { "word": "social media accounts", "score": 8 },
+        { "word": "successful campaigns", "score": 7 },
+        { "word": "account growth", "score": 6 }
+      ]
+    },
+    {
+      "phrase": "knowledge of major social media platforms",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "knowledge", "score": 10 },
+        { "word": "social media platforms", "score": 9 },
+        { "word": "YouTube", "score": 8 },
+        { "word": "Instagram", "score": 7 },
+        { "word": "Facebook", "score": 6 },
+        { "word": "Twitter", "score": 5 },
+        { "word": "LinkedIn", "score": 4 },
+        { "word": "TikTok", "score": 3 },
+        { "word": "Reddit", "score": 2 }
+      ]
+    },
+    {
+      "phrase": "written and verbal communication skills",
+      "priority": "HIGH",
+      "keywords": [
+        { "word": "written", "score": 10 },
+        { "word": "verbal", "score": 9 },
+        { "word": "communication skills", "score": 8 },
+        { "word": "tweet", "score": 7 },
+        { "word": "TikTok", "score": 6 },
+        { "word": "live Q&A", "score": 5 },
+        { "word": "camera", "score": 4 },
+        { "word": "engaging", "score": 3 },
+        { "word": "audience", "score": 2 }
+      ]
+    },
+    {
+      "phrase": "understanding of SEO",
+      "priority": "MEDIUM",
+      "keywords": [
+        { "word": "understanding", "score": 10 },
+        { "word": "SEO", "score": 9 },
+        { "word": "optimize", "score": 8 },
+        { "word": "titles", "score": 7 },
+        { "word": "tags", "score": 6 },
+        { "word": "captions", "score": 5 },
+        { "word": "images", "score": 4 },
+        { "word": "search", "score": 3 }
+      ]
+    },
+    {
+      "phrase": "experience with SaaS and B2C marketing",
+      "priority": "MEDIUM",
+      "keywords": [
+        { "word": "experience", "score": 10 },
+        { "word": "SaaS", "score": 9 },
+        { "word": "B2C marketing", "score": 8 }
+      ]
+    },
+    {
+      "phrase": "experience in graphic design and video editing",
+      "priority": "LOW",
+      "keywords": [
+        { "word": "experience", "score": 10 },
+        { "word": "graphic design", "score": 9 },
+        { "word": "video editing", "score": 8 },
+        { "word": "Photoshop", "score": 7 },
+        { "word": "Figma", "score": 6 },
+        { "word": "Canva", "score": 5 },
+        { "word": "Capcut", "score": 4 }
+      ]
+    }
+  ]
+}
